@@ -8,4 +8,4 @@ A stylesheet recreating the arc-dark theme for wofi.
 
 ## Install
 
-Simply copy the **style.css** file into the $XDG_CONFIG_HOME/wofi folder (so probably $HOME/.config/wofi).
+Simply copy the `style.css` file into the `$XDG_CONFIG_HOME/wofi` folder (so probably `$HOME/.config/wofi`).
