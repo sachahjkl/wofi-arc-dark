@@ -2,15 +2,15 @@
 
 # wofi-arc-dark
 
-A stylesheet recreating the arc-dark theme for wofi.
+Une feuille de style qui reproduit le thème arc-dark pour wofi.
 
-## Showcase
+## Aperçu
 
-![Showcase](./pics/showcase.png)
+![Aperçu](./pics/showcase.png)
 
-## Install
+## Installation
 
-Simply copy the `style.css` file into the `$XDG_CONFIG_HOME/wofi` folder (so probably `$HOME/.config/wofi`).
+Copiez le fichier `style.css` dans le dossier `$XDG_CONFIG_HOME/wofi` (probablement `$HOME/.config/wofi`).
 
 ## Star History
 
