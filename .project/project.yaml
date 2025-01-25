@@ -1,0 +1,14 @@
+name: "wofi-arc-dark"
+description: "A stylesheet recreating the arc-dark theme for wofi."
+topics:
+  - "swaywm"
+  - "wofi"
+  - "css"
+  - "rofi"
+  - "wofi-theme"
+  - "ricing"
+homepage: ""
+source:
+  provider: github
+  namespace: "sachahjkl"
+  path: "sachahjkl/wofi-arc-dark"
