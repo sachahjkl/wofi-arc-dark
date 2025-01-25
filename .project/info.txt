@@ -1,0 +1,2 @@
+name=wofi-arc-dark
+description=A stylesheet recreating the arc-dark theme for wofi.
