@@ -1,5 +1,3 @@
-[English](README.md) | [Français](README.fr.md)
-
 # wofi-arc-dark
 
 A stylesheet recreating the arc-dark theme for wofi.
